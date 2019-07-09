@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://sid123:sid123@lifesprintmongodb-qyibw.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
+}
